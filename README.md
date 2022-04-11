@@ -34,8 +34,8 @@
  
  Troubleshooting tips
  Credits and acknowledgments
-- [Configuration instructions](#Configuration instructions)
-- [Installation instructions](#Installation instructions)
+ - [Introduction](#Introduction)
+- [Configuration and Installation instructions](#Configuration instructions)
 - [Operating instructions](#Operating instructions)
 - [A manifest (list of files)](#A manifest (list of files))
 - [Copyright information](#Copyright information)
@@ -52,6 +52,28 @@
 </p>
 
 View repository and user information, control your notifications and even manage your issues and pull requests. Built with React Native, GitPoint is one of the most feature-rich unofficial GitHub clients that is 100% free.
+
+
+## Configuration and Installation instructions
+
+Expo Go app Required on the smartphone.<br>
+
+Make sure to have NodeJS installed on your system
+
+Go to <a href="https://reactnative.dev/docs/environment-setup">React native set up</a> to get more info on how to install Expo CLI on the system. <br>
+
+```
+npm install -g expo-cli
+expo init <project-name>
+
+cd <project-name>
+npm start  # you can also use: expo start
+```
+<br>
+Inside the project folder, replace the default App.js file with the provided App.js file <br>
+Add the other .js files in the same location as the App.js file.<br>
+After saving the files, in the command prompt, in folder location type '''npm start''' or '''expo start''' <br>
+Scan the QR code
 
 **Available for both iOS and Android.**
 
