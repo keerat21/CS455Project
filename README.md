@@ -48,7 +48,7 @@
 ## Introduction
 
 <p align="center">
-    <img alt="Download on the App Store" title="App Store" src="https://ibb.co/6sv24tb" width="140">
+    <a href="https://ibb.co/6sv24tb"><img src="https://i.ibb.co/6sv24tb/mig.jpg" alt="mig" border="0"></a>
 </p>
 
 View repository and user information, control your notifications and even manage your issues and pull requests. Built with React Native, GitPoint is one of the most feature-rich unofficial GitHub clients that is 100% free.
