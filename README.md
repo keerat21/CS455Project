@@ -56,9 +56,9 @@ View repository and user information, control your notifications and even manage
 
 ## Configuration and Installation instructions
 
-Expo Go app Required on the smartphone.<br>
+**Expo Go app Required on the smartphone.**<br>
 
-Make sure to have NodeJS installed on your system
+**Make sure to have NodeJS installed on your system** <br>
 
 Go to <a href="https://reactnative.dev/docs/environment-setup">React native set up</a> to get more info on how to install Expo CLI on the system. <br>
 
@@ -72,7 +72,7 @@ npm start  # you can also use: expo start
 <br>
 Inside the project folder, replace the default App.js file with the provided App.js file <br>
 Add the other .js files in the same location as the App.js file.<br>
-After saving the files, in the command prompt, in folder location type '''npm start''' or '''expo start''' <br>
+After saving the files, in the command prompt, in folder location type ```npm start``` or ```expo start``` <br>
 Scan the QR code
 
 **Available for both iOS and Android.**
@@ -81,19 +81,17 @@ Scan the QR code
   <img src = "http://i.imgur.com/HowF6aM.png" width=350>
 </p>
 
-## Features
+## Operating instructions
 
-A few of the things you can do with GitPoint:
+The things you can do with Recrsive Note Maker:
 
-* View user activity feed
-* Communicate on your issue and pull request conversations
-* Close or lock issues
-* Apply labels and assignees
-* Review and merge pull requests
-* Create new issues
-* Star, watch and fork repositories
-* Control your unread and participating notifications
-* Easily search for any user or repository
+* Add notes to homescreen
+* click on note which opens up a new screen which furthur can be opened to another screen.
+* Camera for each deatils/note screen
+* press and hold the note to delete it
+* Restart from home button
+* go back button
+
 
 <p align="center">
   <img src = "http://i.imgur.com/IkSnFRL.png" width=700>
