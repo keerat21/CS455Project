@@ -35,7 +35,7 @@
  Troubleshooting tips
  Credits and acknowledgments
  - [Introduction](#Introduction)
-- [Configuration and Installation instructions](#Configuration and Installation instructions)
+- [Configuration and Installation instructions](#Configuration-and-Installation-instructions)
 - [Operating instructions](#Operating instructions)
 - [A manifest (list of files)](#A manifest (list of files))
 - [Copyright information](#Copyright information)
