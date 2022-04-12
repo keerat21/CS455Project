@@ -6,7 +6,23 @@ import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import {UseTextInputMultiline} from './useTextInput'
 const Stack = createNativeStackNavigator();
+/** Adapted from CS455 University of Regina; Dr. Trevor M. Tomesh
 
+* AddTodo()
+* Purpose: adds an item on user input; Does not allow user to add empty strings
+* Parameter(s):
+* <1>submitHandler
+*
+* Precondition(s):
+* <1> N/A
+*
+* Returns: TextInput and 'add notes' button
+*
+* Side effect:
+* <1> calls submitHandler
+* <2> upon 'add notes' button clicked, the text is entered as an item in the flatlist.
+*
+*/
 export default function AddTodo({submitHandler}){
   const [text, setText] = useState('');
 
