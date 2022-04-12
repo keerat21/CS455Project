@@ -19,9 +19,9 @@
 - [Configuration and Installation instructions](#Configuration-and-Installation-instructions)
 - [Operating instructions](#Operating-instructions)
 - [Manifest (list of files)](#Manifest-(list-of-files))
-- [Copyright information](#Copyright information)
-- [Contact information](#Contact information-)
-- [Bug list](#Bug list)
+- [Copyright information](#Copyright-information)
+- [Contact information](#Contact-information)
+- [Bug list](#Bug-list)
 - [Acknowledgments](#acknowledgments)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -29,11 +29,12 @@
 ## Introduction
 
 <p align="center">
-    <a href="https://ibb.co/6sv24tb"><img src="https://i.ibb.co/6sv24tb/mig.jpg" alt="mig" border="0"></a>
+    <a href="https://ibb.co/6sv24tb"><img src="https://i.ibb.co/jgvWTzT/image.png" alt="mig" border="0"></a>
 </p>
 
-View repository and user information, control your notifications and even manage your issues and pull requests. Built with React Native, GitPoint is one of the most feature-rich unofficial GitHub clients that is 100% free.
-
+The purpose for this project is to use the knowledge gained on mobile computing during the
+semester and develop an application. User interface, API and other functionalities will be in use.<br>
+Purpose of making this app is to enhance the experience of being a student.
 
 ## Configuration and Installation instructions
 
@@ -70,10 +71,14 @@ The things you can do with Recrsive Note Maker:
 * Restart from home button
 * go back button
 
-https://i.ibb.co/WPxz4GF/IMG-0173.png
+The user can add notes/tasks and on clicking it, a new screen dedicated to that note/task is built. In the new screen, more tasks can be created, upon click more screens are created for each task. We can go tasks task to tasks recursively.
+<br>
+Camera Feature is added too for each dedicated screen.
 
 
-https://i.ibb.co/GsJqxF7/IMG-0170.png
+
+
+
 
 
 
@@ -98,31 +103,27 @@ https://i.ibb.co/GsJqxF7/IMG-0170.png
 * ListRender.js
 * addTodos.js
 
+These are the main files where all the work is done, if you have all the prerequisites for running a react native apps then add the given files in the react-native folder.
+
+## Copyright information
+Please check the comments in the above Manifest.
 
 
-## Feedback
+## Contact information
 
-Feel free to send us feedback on [Twitter](https://twitter.com/gitpointapp) or [file an issue](https://github.com/gitpoint/git-point/issues/new). Feature requests are always welcome. If you wish to contribute, please take a quick look at the [guidelines](./CONTRIBUTING.md)!
+Feel free to send me feedback on my email, tanwarkeerat@gmail.com and please feel free make changes to add new features. 
 
-If there's anything you'd like to chat about, please feel free to join our [Gitter chat](https://gitter.im/git-point)!
 
-## Contributors
+## Bug list
 
-This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification and is brought to you by these [awesome contributors](./CONTRIBUTORS.md).
-
-## Build Process
-
-- Follow the [React Native Guide](https://facebook.github.io/react-native/docs/getting-started.html) for getting started building a project with native code. **A Mac is required if you wish to develop for iOS.**
-- Clone or download the repo
-- `yarn` to install dependencies
-- `yarn run link` to link react-native dependencies
-- `yarn start:ios` to start the packager and run the app in the iOS simulator (`yarn start:ios:logger` will boot the application with [redux-logger](<https://github.com/evgenyrodionov/redux-logger>))
-- `yarn start:android` to start the packager and run the app in the the Android device/emulator (`yarn start:android:logger` will boot the application with [redux-logger](https://github.com/evgenyrodionov/redux-logger))
-
-Please take a look at the [contributing guidelines](./CONTRIBUTING.md) for a detailed process on how to build your application as well as troubleshooting information.
-
-**Development Keys**: The `CLIENT_ID` and `CLIENT_SECRET` in `api/index.js` are for development purposes and do not represent the actual application keys. Feel free to use them or use a new set of keys by creating an [OAuth application](https://github.com/settings/applications/new) of your own. Set the "Authorization callback URL" to `gitpoint://welcome`.
-
+<span align="left">
+  <img src = "https://i.ibb.co/WPxz4GF/IMG-0173.png"  width=290>
+</span>
+<span align="center">
+  <img src = "https://i.ibb.co/GsJqxF7/IMG-0170.png"  width=290>
+</span>
+1. Some issues with ScrollView. ("VirtualList should not be nested inside ScrollView")
+2.
 ## Acknowledgments
 
 Thanks to [JetBrains](https://www.jetbrains.com) for supporting us with a [free Open Source License](https://www.jetbrains.com/buy/opensource).
