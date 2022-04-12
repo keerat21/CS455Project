@@ -80,15 +80,15 @@ https://i.ibb.co/GsJqxF7/IMG-0170.png
 
 
 
-<p align="center">
+<span align="left">
   <img src = "https://i.ibb.co/6DNqhDY/IMG-0169.png"  width=290>
-</p>
-<p align="center">
+</span>
+<span align="center">
   <img src = "https://i.ibb.co/gb1xH3p/IMG-0172-min.png"  width=290>
-</p>
-<p align="center">
+</span>
+<span align="right">
   <img src = "https://i.ibb.co/SP105tY/IMG-0168.png"  width=290>
-</p>
+</span>
 
 
 ## Manifest (list of files)
