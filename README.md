@@ -91,18 +91,21 @@ The things you can do with Recrsive Note Maker:
 
 https://i.ibb.co/WPxz4GF/IMG-0173.png
 
-https://i.ibb.co/x8RJ9Wc/IMG-0171.png
+
 https://i.ibb.co/GsJqxF7/IMG-0170.png
 
 
-<p align="left">
+<p align="center">
   <img src = "https://i.ibb.co/6DNqhDY/IMG-0169.png"  width=290>
+</p>
+<p align="center">
+  <img src = "https://i.ibb.co/x8RJ9Wc/IMG-0171.png"  width=290>
 </p>
 <p align="center">
   <img src = "https://i.ibb.co/C2C6HpB/IMG-0172.png"  width=290>
 </p>
 
-<p align="right">
+<p align="center">
   <img src = "https://i.ibb.co/SP105tY/IMG-0168.png"  width=290>
 </p>
 
