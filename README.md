@@ -31,6 +31,9 @@
 <p align="center">
     <a href="https://ibb.co/6sv24tb"><img src="https://i.ibb.co/jgvWTzT/image.png" alt="mig" border="0"></a>
 </p>
+<p align="center">
+    Previous planned project
+</p>
 
 The purpose for this project is to use the knowledge gained on mobile computing during the
 semester and develop an application. User interface, API and other functionalities will be in use.<br>
@@ -122,8 +125,11 @@ Feel free to send me feedback on my email, tanwarkeerat@gmail.com and please fee
 <span align="center">
   <img src = "https://i.ibb.co/GsJqxF7/IMG-0170.png"  width=290>
 </span>
+<br>
 1. Some issues with ScrollView. ("VirtualList should not be nested inside ScrollView")
-2.
+2. No storage, If we go into a screen and go back to previous screen; then the state of that screen is not stored. Camera photos not stored in library, screen or database; but only the snapshot can be viewed.
+3. All the red marked features in the previously planned project are yet to be added/ worked upon.
 ## Acknowledgments
 
-Thanks to [JetBrains](https://www.jetbrains.com) for supporting us with a [free Open Source License](https://www.jetbrains.com/buy/opensource).
+Thanks to professor Dr. Trevor M. Tomesh, University of Regina of class CS455(mobile computing) for supporting me with a [free Open Source License](https://www.jetbrains.com/buy/opensource). <br>
+Thanks to ![Rohit Kumar Thakur](https://javascript.plainenglish.io/make-a-camera-app-using-react-native-expo-android-ios-75b3567f5a47) for the camera feature.
