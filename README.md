@@ -41,9 +41,10 @@ Purpose of making this app is to enhance the experience of being a student.
 
 ## Configuration and Installation instructions
 
-**Expo Go app Required on the smartphone.**<br>
+**Expo Go app Required on the smartphone.** or import files in your [expo]("https://expo.dev/") account<br>
 
 **Make sure to have NodeJS installed on your system** <br>
+**Make sure to include all important dependencies** <br>
 
 Go to <a href="https://reactnative.dev/docs/environment-setup">React native set up</a> to get more info on how to install Expo CLI on the system. <br>
 
@@ -69,6 +70,7 @@ Scan the QR code
 
 ## Operating instructions
 
+**App runs better on mobile phones because of vibration and camera features.**
 The things you can do with Recrsive Note Maker:
 
 * Add notes to homescreen
@@ -106,7 +108,8 @@ Camera Feature is added too for each dedicated screen.
 These are the main files where all the work is, if you have all the prerequisites for running react native apps then add the given files in the react-native folder.(replace "App.js" if one exists already)
 
 ## Copyright information
-Please check the comments in the above Manifest.
+Please check the comments in the files of above Manifest. 
+Work mainily used from 
 
 
 ## Contact information
@@ -125,11 +128,13 @@ Feel free to send me feedback on my email, tanwarkeerat@gmail.com and please fee
 
 1. Some issues with ScrollView. ("VirtualList should not be nested inside ScrollView")
 2. No storage, If we go into a screen and go back to previous screen; then the state of that screen is not stored. Camera photos not stored in library, screen or database; but only the snapshot can be viewed.
-3. 4. All the red marked features in the previously planned project are yet to be added/ worked upon.
-4. 5. App runs better on mobile phones
+3. All the red marked features in the previously planned project are yet to be added/ worked upon.
+4. Dependencies might have to be added or installed to run, but by using expo.dev or expo CLI can help 
+
 
 
 ## Acknowledgments
 
-Thanks to Professor Dr. Trevor M. Tomesh, University of Regina of class CS455(mobile computing) 2022 Winter for supporting me. <br>
-Thanks to [Rohit Kumar Thakur](https://javascript.plainenglish.io/make-a-camera-app-using-react-native-expo-android-ios-75b3567f5a47) for the camera feature.
+**Thanks to Professor Dr. Trevor M. Tomesh, University of Regina of class CS455(mobile computing) 2022 Winter for supporting me.**
+<br><br>
+**Thanks to [Rohit Kumar Thakur](https://javascript.plainenglish.io/make-a-camera-app-using-react-native-expo-android-ios-75b3567f5a47) for the camera feature.**
