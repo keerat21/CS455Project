@@ -2,6 +2,27 @@ import React, { useState, useEffect } from 'react';
 import { StyleSheet ,Text, View, Button, Image} from 'react-native';
 import { Camera } from 'expo-camera';
 
+
+
+
+
+/** From https://javascript.plainenglish.io/make-a-camera-app-using-react-native-expo-android-ios-75b3567f5a47   Rohit Kumar Thakur
+Aug 6, 2021
+
+* CameraWork()
+* Purpose: click photos, and flip camera option
+* Parameter(s):
+* <1>N/A
+*
+* Precondition(s):
+* Buttons in the screen to access the camera
+*
+* Returns: Image clicked to the same bottom half screen
+*
+* Side effect:
+* <1> image captured in thebottom half screen
+*
+*/
 export default function CameraWork({navigation}) {
   const [hasCameraPermission, setHasCameraPermission] = useState(null);
   const [camera, setCamera] = useState(null);
@@ -59,7 +80,3 @@ const styles = StyleSheet.create({
 })
 
 
-/** from https://javascript.plainenglish.io/make-a-camera-app-using-react-native-expo-android-ios-75b3567f5a47   Rohit Kumar Thakur
-Aug 6, 2021
-
- */

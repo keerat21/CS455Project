@@ -57,8 +57,7 @@ return (
 
 const styles = StyleSheet.create({
   container: {
-    
-    backgroundColor: '#ff9',
+
   },
 
   content: {
