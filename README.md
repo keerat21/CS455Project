@@ -97,9 +97,11 @@ https://i.ibb.co/GsJqxF7/IMG-0170.png
 
 <p >
   <img src = "https://i.ibb.co/6DNqhDY/IMG-0169.png" align="left" width=250>
-
+</p>
+<p>
   <img src = "https://i.ibb.co/C2C6HpB/IMG-0172.png" align="center" width=250>
-
+</p>
+<p>
   <img src = "https://i.ibb.co/SP105tY/IMG-0168.png" align="right" width=250>
 </p>
 
