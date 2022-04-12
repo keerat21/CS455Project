@@ -95,15 +95,15 @@ https://i.ibb.co/x8RJ9Wc/IMG-0171.png
 
 
 
-<p align="center">
-  <img src = "https://i.ibb.co/GsJqxF7/IMG-0170.png" width=700>
+<p align="left" >
+  <img src = "https://i.ibb.co/GsJqxF7/IMG-0170.png" width=70>
 </p>
 
 <p align="center">
-  <img src = "https://i.ibb.co/6DNqhDY/IMG-0169.png" width=700>
+  <img src = "https://i.ibb.co/6DNqhDY/IMG-0169.png" width=70>
 </p>
-<p align="center">
-  <img src = "https://i.ibb.co/SP105tY/IMG-0168.png" width=700>
+<p align="left">
+  <img src = "https://i.ibb.co/SP105tY/IMG-0168.png" width=70>
 </p>
 
 ## Feedback
