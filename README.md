@@ -129,6 +129,9 @@ Feel free to send me feedback on my email, tanwarkeerat@gmail.com and please fee
 1. Some issues with ScrollView. ("VirtualList should not be nested inside ScrollView")
 2. No storage, If we go into a screen and go back to previous screen; then the state of that screen is not stored. Camera photos not stored in library, screen or database; but only the snapshot can be viewed.
 3. All the red marked features in the previously planned project are yet to be added/ worked upon.
+4. <br>
+
+
 ## Acknowledgments
 
 Thanks to professor Dr. Trevor M. Tomesh, University of Regina of class CS455(mobile computing) for supporting me with a [free Open Source License](https://www.jetbrains.com/buy/opensource). <br>
