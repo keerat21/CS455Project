@@ -51,9 +51,13 @@ Go to <a href="https://reactnative.dev/docs/environment-setup">React native set 
 npm install -g expo-cli
 expo init <project-name>
 
+npm install @react-navigation/native
+
 cd <project-name>
 npm start  # you can also use: expo start
 ```
+
+It is also possible to import the files to your [expo]("https://expo.dev/") account. Add the dependencies as asked by expo.
 <br>
 Inside the project folder, replace the default App.js file with the provided App.js file <br>
 Add the other .js files in the same location as the App.js file.<br>
@@ -81,13 +85,6 @@ Camera Feature is added too for each dedicated screen.
 
 
 
-
-
-
-
-
-
-
 <span align="left">
   <img src = "https://i.ibb.co/6DNqhDY/IMG-0169.png"  width=290>
 </span>
@@ -106,7 +103,7 @@ Camera Feature is added too for each dedicated screen.
 * ListRender.js
 * addTodos.js
 
-These are the main files where all the work is done, if you have all the prerequisites for running a react native apps then add the given files in the react-native folder.
+These are the main files where all the work is, if you have all the prerequisites for running react native apps then add the given files in the react-native folder.(replace "App.js" if one exists already)
 
 ## Copyright information
 Please check the comments in the above Manifest.
@@ -125,14 +122,14 @@ Feel free to send me feedback on my email, tanwarkeerat@gmail.com and please fee
 <span align="center">
   <img src = "https://i.ibb.co/GsJqxF7/IMG-0170.png"  width=290>
 </span>
-<br>
+*
 1. Some issues with ScrollView. ("VirtualList should not be nested inside ScrollView")
 2. No storage, If we go into a screen and go back to previous screen; then the state of that screen is not stored. Camera photos not stored in library, screen or database; but only the snapshot can be viewed.
 3. All the red marked features in the previously planned project are yet to be added/ worked upon.
-4. <br>
-
+4. App runs better on mobile phones
+*
 
 ## Acknowledgments
 
-Thanks to professor Dr. Trevor M. Tomesh, University of Regina of class CS455(mobile computing) for supporting me with a [free Open Source License](https://www.jetbrains.com/buy/opensource). <br>
+Thanks to Professor Dr. Trevor M. Tomesh, University of Regina of class CS455(mobile computing) 2022 Winter for supporting me. <br>
 Thanks to [Rohit Kumar Thakur](https://javascript.plainenglish.io/make-a-camera-app-using-react-native-expo-android-ios-75b3567f5a47) for the camera feature.
