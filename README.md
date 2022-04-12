@@ -122,12 +122,12 @@ Feel free to send me feedback on my email, tanwarkeerat@gmail.com and please fee
 <span align="center">
   <img src = "https://i.ibb.co/GsJqxF7/IMG-0170.png"  width=290>
 </span>
-*
+
 1. Some issues with ScrollView. ("VirtualList should not be nested inside ScrollView")
 2. No storage, If we go into a screen and go back to previous screen; then the state of that screen is not stored. Camera photos not stored in library, screen or database; but only the snapshot can be viewed.
-3. All the red marked features in the previously planned project are yet to be added/ worked upon.
-4. App runs better on mobile phones
-*
+3. 4. All the red marked features in the previously planned project are yet to be added/ worked upon.
+4. 5. App runs better on mobile phones
+
 
 ## Acknowledgments
 
