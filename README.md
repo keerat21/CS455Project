@@ -96,14 +96,14 @@ https://i.ibb.co/x8RJ9Wc/IMG-0171.png
 
 
 <p align="left" >
-  <img src = "https://i.ibb.co/GsJqxF7/IMG-0170.png" width=70>
+  <img src = "https://i.ibb.co/GsJqxF7/IMG-0170.png" width=350>
 </p>
 
 <p align="center">
-  <img src = "https://i.ibb.co/6DNqhDY/IMG-0169.png" width=70>
+  <img src = "https://i.ibb.co/6DNqhDY/IMG-0169.png" width=350>
 </p>
 <p align="left">
-  <img src = "https://i.ibb.co/SP105tY/IMG-0168.png" width=70>
+  <img src = "https://i.ibb.co/SP105tY/IMG-0168.png" width=350>
 </p>
 
 ## Feedback
