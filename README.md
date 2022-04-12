@@ -36,8 +36,8 @@
  Credits and acknowledgments
  - [Introduction](#Introduction)
 - [Configuration and Installation instructions](#Configuration-and-Installation-instructions)
-- [Operating instructions](#Operating instructions)
-- [A manifest (list of files)](#A manifest (list of files))
+- [Operating instructions](#Operating-instructions)
+- [Manifest (list of files)](#Manifest-(list-of-files))
 - [Copyright information](#Copyright information)
 - [Contact information](#Contact information-)
 - [Bug list](#Bug list)
@@ -106,12 +106,17 @@ https://i.ibb.co/GsJqxF7/IMG-0170.png
   <img src = "https://i.ibb.co/gb1xH3p/IMG-0172-min.png"  width=290>
 </p>
 <p align="center">
-  <img src = "https://i.ibb.co/YhbKNVr/IMG-0171-min.png"  width=290>
-</p>
-
-<p align="center">
   <img src = "https://i.ibb.co/SP105tY/IMG-0168.png"  width=290>
 </p>
+
+
+## Manifest (list of files)
+* App.js
+* todoItem.js
+* camera.js
+* ListRender.js
+
+
 
 ## Feedback
 
