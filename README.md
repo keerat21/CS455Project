@@ -132,4 +132,4 @@ Feel free to send me feedback on my email, tanwarkeerat@gmail.com and please fee
 ## Acknowledgments
 
 Thanks to professor Dr. Trevor M. Tomesh, University of Regina of class CS455(mobile computing) for supporting me with a [free Open Source License](https://www.jetbrains.com/buy/opensource). <br>
-Thanks to ![Rohit Kumar Thakur](https://javascript.plainenglish.io/make-a-camera-app-using-react-native-expo-android-ios-75b3567f5a47) for the camera feature.
+Thanks to [Rohit Kumar Thakur](https://javascript.plainenglish.io/make-a-camera-app-using-react-native-expo-android-ios-75b3567f5a47) for the camera feature.
