@@ -1,5 +1,5 @@
 
-# CS455Project -react native mobile computing
+# CS455Project -react native mobile computing ☸️☸️
 <h1 align="center"> Recursive note maker </h1> <br>
 
 
@@ -7,14 +7,9 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Table of Contents
 
+ 
+ 🤹🤹🤹
 
- 
- 
- 
- 
- 
- Troubleshooting tips
- Credits and acknowledgments
  - [Introduction](#Introduction)
 - [Configuration and Installation instructions](#Configuration-and-Installation-instructions)
 - [Operating instructions](#Operating-instructions)
@@ -48,6 +43,17 @@ Purpose of making this app is to enhance the experience of being a student.
 
 Go to <a href="https://reactnative.dev/docs/environment-setup">React native set up</a> to get more info on how to install Expo CLI on the system. <br>
 
+
+
+```
+git clone https://github.com/keerat21/CS455Project.git
+
+npm install
+
+expo start   //OR\\  npm start
+```
+
+OR if you are required to make a new project, then:
 ```
 npm install -g expo-cli
 expo init <project-name>
@@ -63,13 +69,14 @@ It is also possible to import the files to your [expo]("https://expo.dev/") acco
 Inside the project folder, replace the default App.js file with the provided App.js file <br>
 Add the other .js files in the same location as the App.js file.<br>
 After saving the files, in the command prompt, in folder location type ```npm start``` or ```expo start``` <br>
-Scan the QR code
+Scan the QR code📲
 
 **Available for both iOS and Android.**
 
 
 ## Operating instructions
 
+🖥️🖥️🖥️
 **App runs better on mobile phones because of vibration and camera features.**
 The things you can do with Recrsive Note Maker:
 
@@ -83,7 +90,7 @@ The things you can do with Recrsive Note Maker:
 The user can add notes/tasks and on clicking it, a new screen dedicated to that note/task is built. In the new screen, more tasks can be created, upon click more screens are created for each task. We can go tasks task to tasks recursively.
 <br>
 Camera Feature is added too for each dedicated screen.
-
+📲
 
 
 
@@ -98,7 +105,8 @@ Camera Feature is added too for each dedicated screen.
 </span>
 
 
-## Manifest (list of files)
+## Manifest (list of files) 
+🗄️
 * App.js
 * todoItem.js
 * camera.js
@@ -109,15 +117,16 @@ These are the main files where all the work is, if you have all the prerequisite
 
 ## Copyright information
 Please check the comments in the files of above Manifest. 
-Work mainily used from 
+Work mainily used from class of CS455 taught by Dr. Trevor at the University of Regina, Canada.
 
 
 ## Contact information
 
+💚💚
 Feel free to send me feedback on my email, tanwarkeerat@gmail.com and please feel free make changes to add new features. 
 
 
-## Bug list
+## Bug list 🐛🐛
 
 <span align="left">
   <img src = "https://i.ibb.co/WPxz4GF/IMG-0173.png"  width=290>
@@ -126,6 +135,7 @@ Feel free to send me feedback on my email, tanwarkeerat@gmail.com and please fee
   <img src = "https://i.ibb.co/GsJqxF7/IMG-0170.png"  width=290>
 </span>
 
+🚩🚩🚩🚩
 1. Some issues with ScrollView. ("VirtualList should not be nested inside ScrollView")
 2. No storage, If we go into a screen and go back to previous screen; then the state of that screen is not stored. Camera photos not stored in library, screen or database; but only the snapshot can be viewed.
 3. All the red marked features in the previously planned project are yet to be added/ worked upon.
