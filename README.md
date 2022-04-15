@@ -13,10 +13,10 @@
  - [Introduction](#Introduction)
 - [Configuration and Installation instructions](#Configuration-and-Installation-instructions)
 - [Operating instructions](#Operating-instructions)
-- [Manifest (list of files)](#Manifest-(list-of-files))
+- [Manifest (list of files)](#Manifest-(-list-of-files-))
 - [Copyright information](#Copyright-information)
 - [Contact information](#Contact-information)
-- [Bug list](#Bug-list-🐛🐛)
+- [Bug list](#Bug-list-)
 - [Acknowledgments](#acknowledgments)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
