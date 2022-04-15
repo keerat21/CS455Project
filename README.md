@@ -16,7 +16,7 @@
 - [Manifest (list of files)](#Manifest-(list-of-files))
 - [Copyright information](#Copyright-information)
 - [Contact information](#Contact-information)
-- [Bug list](#Bug-list)
+- [Bug list](#Bug-list-🐛🐛)
 - [Acknowledgments](#acknowledgments)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -36,7 +36,10 @@ Purpose of making this app is to enhance the experience of being a student.
 
 ## Configuration and Installation instructions
 
+⌨️⌨️
+
 **Expo Go app Required on the smartphone.** or import files in your [expo]("https://expo.dev/") account<br>
+🤳🤳
 
 **Make sure to have NodeJS installed on your system** <br>
 **Make sure to include all important dependencies** <br>
@@ -84,6 +87,7 @@ The things you can do with Recrsive Note Maker:
 * click on note which opens up a new screen which furthur can be opened to another screen.
 * Camera for each deatils/note screen
 * press and hold the note to delete it
+* On press and hold there is vibration feedback📳
 * Restart from home button
 * go back button
 
@@ -144,7 +148,8 @@ Feel free to send me feedback on my email, tanwarkeerat@gmail.com and please fee
 
 
 ## Acknowledgments
-
+😇😇
 **Thanks to Professor Dr. Trevor M. Tomesh, University of Regina of class CS455(mobile computing) 2022 Winter for supporting me.**
 <br><br>
 **Thanks to [Rohit Kumar Thakur](https://javascript.plainenglish.io/make-a-camera-app-using-react-native-expo-android-ios-75b3567f5a47) for the camera feature.**
+😇😇
