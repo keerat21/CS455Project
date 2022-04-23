@@ -2,7 +2,7 @@
 # CS455Project -react native mobile computing ☸️☸️
 <h1 align="center"> Recursive note maker </h1> <br>
 
-
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/keerat21/CS455Project) ![social](https://img.shields.io/github/followers/keerat21?style=social) ![languages](https://img.shields.io/github/languages/count/keerat21/CS455Project) <br>
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Table of Contents
@@ -10,7 +10,7 @@
  
  🤹🤹🤹
 
- - [Introduction](#Introduction)
+- [Introduction](#Introduction)
 - [Configuration and Installation instructions](#Configuration-and-Installation-instructions)
 - [Operating instructions](#Operating-instructions)
 - [Manifest (list of files)](#Manifest-(-list-of-files-))
@@ -32,7 +32,9 @@
 
 The purpose for this project is to use the knowledge gained on mobile computing during the
 semester and develop an application. User interface, API and other functionalities will be in use.<br>
-Purpose of making this app is to enhance the experience of being a student.
+Purpose of making this app is to enhance the experience of being a student.<br><br>
+
+Can be used as a framework for further projects as well with a few modifications
 
 ## Configuration and Installation instructions
 
